@@ -11,7 +11,7 @@ requires-python = ">=3.7"
 license = "MIT"
 keywords = []
 authors = [
-  { name = "U.N. Owen", email = "poweilin1994@gmail.com" },
+  { name = "Powei Lin", email = "poweilin1994@gmail.com" },
 ]
 classifiers = [
   "Development Status :: 4 - Beta",
